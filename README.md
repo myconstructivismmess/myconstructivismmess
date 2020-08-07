@@ -1,4 +1,4 @@
-### Hello 👋
+### Hello dear users of GitHub
 
 - 🔭 I’m currently working on a file loading library and a UI system for Löve2D.
 - 🌱 I’m currently learning Vue.js componenent system and machine learning.
